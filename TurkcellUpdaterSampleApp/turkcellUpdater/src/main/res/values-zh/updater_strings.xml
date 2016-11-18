@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="update_required">必须更新</string>
+    <string name="update_found">发现更新</string>
+    <string name="install">安装</string>
+    <string name="downloading_new_version">下载新版本&#8230;</string>
+    <string name="exit_application">退出应用</string>
+    <string name="remind_me_later">推迟提醒</string>
+    <string name="error_occured">发生错误</string>
+    <string name="update_couldn_t_be_completed">更新无法完成.</string>
+    <string name="continue_">继续</string>
+    <string name="view">查看</string>
+    <string name="close">关闭</string>
+    <string name="service_is_not_available">服务无效</string>
+    <string name="launch">运行</string>
+</resources>
